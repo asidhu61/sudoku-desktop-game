@@ -254,6 +254,11 @@
                     <configuration>
                     </configuration>
                 </plugin>
+                <plugin>
+                    <groupId>org.jooq</groupId>
+                    <artifactId>jooq-codegen-maven</artifactId>
+                    <version>3.19.9</version>
+                </plugin>
             </plugins>
         </pluginManagement>
     </build>
